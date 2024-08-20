@@ -1,13 +1,13 @@
 <h1>Hi, I'm Mathew! </h1>
 
-<h2>👨‍💻 Power BI Project:</h2>
+<h2>👨‍💻 Project:</h2>
 
-- <b>Performance Report for Plant Co.</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> [Performance Report for Plant Co. using Power BI](https://github.com/Mathew-Sabu97/PerformanceReport_PlantCo) </b>
  
 <h2>📜 Certifications</h2>
 
-- <b>[Google Data Analytics](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Google Data Analytics](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~3NUC2F3JTBEL/CERTIFICATE_LANDING_PAGE~3NUC2F3JTBEL.jpeg)</b>
+- <b>[Managing an Agile Team](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5DRBXDTZRT66/CERTIFICATE_LANDING_PAGE~5DRBXDTZRT66.jpeg)</b>
 <!--- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
