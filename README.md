@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Project:</h2>
 
+- <b> [Customer Retention Report using Power BI](https://github.com/Mathew-Sabu97/BankingReport) </b>
 - <b> [Performance Report using Power BI](https://github.com/Mathew-Sabu97/PerformanceReport_PlantCo) </b>
 - <b> [Pizza Sales Analysis using MySQL](https://github.com/Mathew-Sabu97/Pizza_sales_analysis) </b>
 
